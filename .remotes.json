@@ -1,8 +1,20 @@
 [
   {
+    "package": "dbc",
+    "url": "https://github.com/epicentre-msf/dbc",
+    "via": ["redcap"],
+    "from": "redcap"
+  },
+  {
     "package": "queryr",
     "url": "https://github.com/epicentre-msf/queryr",
     "via": ["dbc"],
     "from": "dbc"
+  },
+  {
+    "package": "queryr",
+    "url": "https://github.com/epicentre-msf/queryr",
+    "via": ["redcap", "dbc"],
+    "from": "redcap"
   }
 ]
