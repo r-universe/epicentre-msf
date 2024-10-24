@@ -1,5 +1,31 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/epicentre-msf/epicentre-msf.r-universe.dev
 	branch = HEAD
+[submodule "dbc"]
+	path = dbc
+	url = https://github.com/epicentre-msf/dbc
+[submodule "epishiny"]
+	path = epishiny
+	url = https://github.com/epicentre-msf/epishiny
+[submodule "epivis"]
+	path = epivis
+	url = https://github.com/epicentre-msf/epivis
+[submodule "hmatch"]
+	path = hmatch
+	url = https://github.com/epicentre-msf/hmatch
+[submodule "nmatch"]
+	path = nmatch
+	url = https://github.com/epicentre-msf/nmatch
+[submodule "queryr"]
+	path = queryr
+	url = https://github.com/epicentre-msf/queryr
+[submodule "qxl"]
+	path = qxl
+	url = https://github.com/epicentre-msf/qxl
+[submodule "redcap"]
+	path = redcap
+	url = https://github.com/epicentre-msf/redcap
+[submodule "rpxl"]
+	path = rpxl
+	url = https://github.com/epicentre-msf/rpxl
