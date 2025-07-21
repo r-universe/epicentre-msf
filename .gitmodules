@@ -23,6 +23,10 @@
 [submodule "qxl"]
 	path = qxl
 	url = https://github.com/epicentre-msf/qxl
+[submodule "readxlsb"]
+	path = readxlsb
+	url = https://github.com/cran/readxlsb
+	registered = false
 [submodule "redcap"]
 	path = redcap
 	url = https://github.com/epicentre-msf/redcap

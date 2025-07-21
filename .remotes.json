@@ -16,5 +16,11 @@
     "url": "https://github.com/epicentre-msf/queryr",
     "via": ["redcap", "dbc"],
     "from": "redcap"
+  },
+  {
+    "package": "readxlsb",
+    "url": "https://github.com/cran/readxlsb",
+    "via": ["rpxl"],
+    "from": "rpxl"
   }
 ]
