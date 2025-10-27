@@ -11,6 +11,9 @@
 [submodule "epivis"]
 	path = epivis
 	url = https://github.com/epicentre-msf/epivis
+[submodule "fieldmaps"]
+	path = fieldmaps
+	url = https://github.com/epicentre-msf/fieldmaps
 [submodule "hmatch"]
 	path = hmatch
 	url = https://github.com/epicentre-msf/hmatch
